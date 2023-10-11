@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faramarzmn
-- 👀 I’m interested in django
-- 🌱 I’m currently learning django
+- 👀 I’m interested in python and web-development 
+- 🌱 I’m currently learning Machine-Learning
 
 <!---
 faramarzmn/faramarzmn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
